@@ -57,6 +57,8 @@ ShantyJam2022Game/Saved/*
 ShantyJam2022Game/Plugins/*/Binaries/*
 ShantyJam2022Game/Binaries/*
 ShantyJam2022Game/Intermediate/*
+ShantyJam2022Game/Build/*
+Builds/*
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
